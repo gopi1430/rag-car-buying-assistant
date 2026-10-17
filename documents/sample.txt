@@ -1,0 +1,28 @@
+Car Buying Assistant - Customer Requirements
+
+Customer Query:
+
+Hi, I am planning to buy my first car. My monthly salary is Rs. 60,000, and my budget is around Rs. 8 lakh. I travel to my office every day, covering approximately 35 km. I am looking for a car with good mileage, low maintenance costs, and essential safety features. I prefer a petrol car, but I am open to CNG if it helps me save money. I live in the city, so I need a car that is easy to drive and park. I also want comfortable seating and affordable service costs.
+
+Please suggest suitable cars based on my budget, monthly income, daily usage, and preferences. Compare the available options and explain which car would be the best choice for me.
+
+Customer Details:
+
+Monthly Salary: Rs. 60,000
+Maximum Budget: Rs. 8,00,000
+Car Ownership: First-time buyer
+Daily Travel: 35 km
+Main Usage: Office commuting and city driving
+Fuel Preference: Petrol or CNG
+Main Priorities: Mileage, safety, low maintenance, and comfort
+Driving Environment: City traffic
+Additional Requirement: Affordable servicing and spare parts
+
+Recommendation Criteria:
+
+The recommended cars should fit the customer's budget as closely as possible. The system should consider running costs, fuel efficiency, safety features, maintenance expenses, and suitability for city driving. It should compare the available options and explain the advantages and disadvantages of each recommendation.
+
+The final recommendation should also consider the customer's monthly financial commitments instead of assuming that the entire salary is available for car expenses.
+Preferred Fuel: Petrol
+Preferred Maintenance: Low
+Minimum Mileage: 18

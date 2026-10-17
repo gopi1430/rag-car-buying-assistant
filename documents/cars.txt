@@ -1,0 +1,33 @@
+Car Information Database
+
+Car 1: Tata altroz
+Price: Rs. 6 lakh
+Fuel Type: Petrol
+Mileage: 20 km per litre
+Maintenance: Low
+Safety: Basic safety features
+Best For: First-time buyers and city driving
+
+Car 2: swift dzire
+Price: Rs. 7.5 lakh
+Fuel Type: Petrol
+Mileage: 18 km per litre
+Maintenance: Medium
+Safety: Good safety features
+Best For: Small families and daily commuting
+
+Car 3: toyota glanza
+Price: Rs. 8 lakh
+Fuel Type: petrol
+Mileage: 25 km per litre
+Maintenance: Low
+Safety: Basic safety features
+Best For: Daily commuters who want to reduce running costs
+
+Car 4: Hyundai verna
+Price: Rs. 19.5 lakh
+Fuel Type: Petrol
+Mileage: 14 km per litre
+Maintenance: Medium
+Safety: Advanced safety features
+Best For: Buyers who prioritize safety and comfort
